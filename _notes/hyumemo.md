@@ -1,5 +1,5 @@
 ---
-title: memo
+title: hyumemo
 ---
 🤕변경되었거나 잘못된 정보가 있다면 댓글로 알려주세요🤕
 
