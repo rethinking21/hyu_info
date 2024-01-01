@@ -15,7 +15,7 @@ permalink: /
 새해 D-1 인데 할게 없어서 만들어 봤어요
 
 
-- [채팅방 홍보 목록](hyu_welcome_chat)
+- [채팅방 홍보 목록](chat)
 
 [[hyumemo]]
 
